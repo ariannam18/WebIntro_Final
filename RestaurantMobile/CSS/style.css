@@ -1,0 +1,388 @@
+#Chipotles {
+	width: 480px;
+	height: 100%;
+	margin: 0 auto;
+	padding: 0;
+	text-align: center;
+
+	
+	
+}
+/*
+{
+
+
+
+
+	margin: 0;
+
+	padding: 5;
+
+
+
+
+	}
+
+*/
+
+
+.Chipotle
+
+{
+	height: 60px;
+	width: 480px;
+	margin: 0 auto;
+	z-index: 3;
+
+}
+
+
+.Guac
+
+{
+	height: 80px;
+	width: 80px;
+	z-index: 3;
+	
+
+}
+.Guac img{
+	position: absolute;
+	top: 50px;
+}
+
+
+.join{
+
+	position: relative;
+
+	text-align: center;
+
+	font-family: sans-serif;
+
+	color: #ffffff;
+
+	top: 100px;
+
+}	
+
+.join h1{
+
+	font-size: 100px;
+
+	margin: 55px;
+
+
+
+
+}	
+
+.join h2{
+
+	font-size: 20px;
+
+	margin: 25px;
+
+}
+
+	
+
+.join h3{
+
+	font-size: 30px;
+
+	margin: 25px;
+
+}
+
+
+
+
+.btn{
+
+	font-size: 18px;
+
+	letter-spacing: 2px;
+
+	margin: 5px;
+
+	padding: 7px 10px;
+
+	text-decoration: none;
+
+	border: 1px solid #ffffff;
+
+
+
+
+}	
+
+
+
+
+
+
+body{
+
+	padding:0;
+
+	margin: 0;
+
+	background-color: #ffffff;
+
+}
+
+
+
+
+.mother{
+
+	width: 480px;
+
+	margin: 0 auto;
+
+	height: 600px;
+	
+	text-align: center;
+
+}
+
+	
+	
+}
+
+
+.mother a{
+
+	color:red;
+
+	font-size: 15pt;
+
+	text-align: center;
+
+
+
+}.mother p a {
+
+
+
+
+}
+
+.Rice{
+
+	width: 480px;
+
+	margin: 0 auto;
+
+	font-family: Helvetica, Arial, sans-serif;
+
+    font-size: 12px;
+
+    text-align: center;
+
+}
+
+
+
+
+.Rice h1{
+
+	width: 480px;
+
+	margin: 0 auto;
+
+	color: #451400;
+
+	font-family: Helvetica, Arial, sans-serif;
+
+    font-size: 20px;
+
+    text-align: center;
+
+
+}
+
+
+.Rice h2{
+
+	width: 480px;
+
+	margin: 0 auto;
+
+	color: #ffffff;
+
+	font-family: Helvetica, Arial, sans-serif;
+
+    font-size: 20px;
+
+    text-align: center;
+
+
+}
+
+.Rice h3{
+
+	width: 480px;
+
+	margin: 0 auto;
+
+	color: #451400;
+
+	font-family: Helvetica, Arial, sans-serif;
+
+    font-size: 20px;
+
+    text-align: center;
+
+
+}
+
+.Rice p{
+
+	width: 480px;
+
+	margin: 0 auto;
+
+	color: #451400;
+
+	font-family: Helvetica, Arial, sans-serif;
+
+    font-size: 12px;
+
+    text-align: center;
+
+
+}
+
+.mother h4{
+
+	width: 480px;
+
+	margin: 0 auto;
+
+	color: #451400;
+
+	font-family: Helvetica, Arial, sans-serif;
+
+    font-size: 20px;
+
+    text-align: center;
+
+
+}
+
+.mother p{
+
+	width: 480px;
+
+	margin: 0 auto;
+
+	color: #451400;
+
+	font-family: Helvetica, Arial, sans-serif;
+
+    font-size: 12px;
+
+    text-align: center;
+
+
+}
+
+
+.mother p1{
+
+	width: 480px;
+
+	margin: 0 auto;
+
+	color: #ffffff;
+
+	font-family: Helvetica, Arial, sans-serif;
+
+    font-size: 12px;
+
+    text-align: center;
+
+
+}
+
+
+.mother h1{
+
+	width: 480px;
+
+	margin: 0 auto;
+
+	color: #451400;
+
+	font-family: Helvetica, Arial, sans-serif;
+
+    font-size: 20px;
+
+    text-align: center;
+
+
+}
+
+.Rice p{
+
+	width: 480px;
+
+	margin: 0 auto;
+
+	color: #451400;
+
+	font-family: Helvetica, Arial, sans-serif;
+
+    font-size: 20px;
+
+    text-align: center;
+
+}
+
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: rebeccapurple;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:active {
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;
+
+}	
+
+a:hover {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+
+}	
+	
+	
+.scrollmenu {
+    background-color: #333;
+    overflow: auto;
+    white-space: nowrap;
+	width: 480px;
+	margin: 0 auto;
+}
+
+.scrollmenu a {
+    display: inline-block;
+    color: white;
+    float: right;
+    padding: 14px;
+    text-decoration: none;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+.scrollmenu a:hover {
+    background-color: #777;
+}

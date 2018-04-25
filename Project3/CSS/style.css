@@ -1,0 +1,56 @@
+body{
+	padding:0;
+	margin: 0;
+	background-color: #ffffff;
+}
+
+.mother{
+	width: 100%;
+	height: 700px;
+	background-color: #ffffff;
+	border: 4px solid grey;
+}
+
+a{
+	color: #ff69b4;
+}
+
+.mother a{
+	color:black;
+	font-size: 12pt;
+}
+
+}.mother p a {
+
+}
+
+
+#child01 a:hover{/*pseudo selctors/class*/
+	color:#660033;
+}
+
+#child01 a:link{
+	color:#000000;
+}
+
+#child01 a:visited{
+	color:#ffffff;
+}
+
+
+#apple{
+	color: blue;
+}
+
+
+img[alt]{
+	width:  600px;
+	height: 250px;
+	border: 2.5px dashed grey;
+
+}
+
+.mother h1{
+	font-family: Helvetica, Serif;
+	font size: 25pt;
+}

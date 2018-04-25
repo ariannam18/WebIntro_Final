@@ -1,0 +1,17 @@
+ #bruno p{/*family hierachy edit*/
+ 	color: red;
+ 	;
+}
+.list ul{
+	list-style-type: none; /*this removes bullets*/
+
+
+}
+
+.list ul li{
+	display: inline-block; /*this displays item horizontally*/
+	font-family: Helvetica, Arial, Sans-serif;
+	font-size: 14pt;
+
+
+}
